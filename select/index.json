@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "star flower",
+  "base_artist": "Chilli Beans.",
+  "createdAt": "2026-02-08T17:14:25.997624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Star Sky",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/02_Star_Sky_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Country Star",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/03_Country_Star_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Someone Else's Star",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/04_Someone_Else's_Star_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Someone Else's Star (LP Version)",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/05_Someone_Else's_Star_(LP_Version)_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Someone Else's Star (LP Version)",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/06_Someone_Else's_Star_(LP_Version)_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Southern Star",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/07_Southern_Star_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Southern Star",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/08_Southern_Star_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Twinkle, Twinkle Lucky Star",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/09_Twinkle,_Twinkle_Lucky_Star_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twinkle, Twinkle Lucky Star (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/10_Twinkle,_Twinkle_Lucky_Star_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/11_Would_You_Catch_a_Falling_Star_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": false,
+      "path": "select/12_Would_You_Catch_a_Falling_Star_John_Anderson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Black Star",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Black_Star_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rock 'n' Roll Star",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/14_Rock_'n'_Roll_Star_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somewhere a Star Shines for Everyone",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/15_Somewhere_a_Star_Shines_for_Everyone_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Star In You",
+      "artist": "Wanting",
+      "has_synced": true,
+      "path": "select/16_Star_In_You_Wanting.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Flower Shops (feat. Morgan Wallen) [Acoustic]",
+      "artist": "ERNEST",
+      "has_synced": true,
+      "path": "select/17_Flower_Shops_(feat._Morgan_Wallen)_[Acoustic]_ERNEST.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wildwood Flower",
+      "artist": "The Carter Family",
+      "has_synced": true,
+      "path": "select/18_Wildwood_Flower_The_Carter_Family.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Wildwood Flower (Album Version)",
+      "artist": "The Original Carter Family",
+      "has_synced": true,
+      "path": "select/19_Wildwood_Flower_(Album_Version)_The_Original_Carter_Family.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Lotus Flower",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/20_Lotus_Flower_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jacques Greene Remix)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/21_Lotus_Flower_(Jacques_Greene_Remix)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jacques Greene Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/22_Lotus_Flower_(Jacques_Greene_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Lotus Flower - Jaques Green RMX",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/23_Lotus_Flower_-_Jaques_Green_RMX_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jaques Green RMX)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/24_Lotus_Flower_(Jaques_Green_RMX)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Lotus Flower (SBTRKT Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/25_Lotus_Flower_(SBTRKT_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Destroy The Flower",
+      "artist": "Lisa Germano",
+      "has_synced": true,
+      "path": "select/26_Destroy_The_Flower_Lisa_Germano.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Flower",
+      "artist": "Lapalux",
+      "has_synced": true,
+      "path": "select/27_Flower_Lapalux.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Flower - Remastered",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/28_Flower_-_Remastered_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Flower",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/29_Flower_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Pluck a Flower",
+      "artist": "Loveboy",
+      "has_synced": true,
+      "path": "select/30_Pluck_a_Flower_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Blue Flower",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/31_Blue_Flower_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Blue Flower (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/32_Blue_Flower_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Blue Flower (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/33_Blue_Flower_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Dream Of A Young Girl As A Flower",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/34_Dream_Of_A_Young_Girl_As_A_Flower_Mercury_Rev.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "star flower",
+      "artist": "Chilli Beans.",
+      "has_synced": false,
+      "path": "select/pl_01_star_flower_Chilli_Beans..txt"
+    }
+  ]
+}
